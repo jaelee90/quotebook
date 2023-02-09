@@ -2,4 +2,8 @@ Strength through Struggle - Michael Choi
 
 I like green - Basic peeps
 
+<<<<<<< Updated upstream
 What's going on here? - Me
+=======
+git stash test
+>>>>>>> Stashed changes
